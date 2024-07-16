@@ -1,2 +1,5 @@
-streamlit
 pandas
+streamlit
+requests
+plotly
+python-dotenv
